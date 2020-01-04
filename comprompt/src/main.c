@@ -7,6 +7,7 @@
 int main()
 {
   system("clear");
+  getusr();
   for (;;)
     {
       if (exitprompt == false)
